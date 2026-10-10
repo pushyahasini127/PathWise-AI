@@ -1,0 +1,21 @@
+course_id,title,prerequisites,topics,careers,foundation_skills,target_skills,difficulty
+CS301,Data Structures,programming,algorithms;software,software_engineer;data_engineer,programming,programming;problem_solving,2
+CS302,Database Systems,programming,databases;data,data_engineer;backend_engineer,programming,sql;databases,2
+CS303,Computer Networks,programming,networks;security,cybersecurity_analyst;cloud_engineer,programming,networking;linux,2
+CS304,Web Development,programming,web;software,frontend_engineer;backend_engineer,programming,html_css;javascript,2
+CS305,Operating Systems,programming,systems;security,cloud_engineer;cybersecurity_analyst,programming,linux;systems,3
+CS306,Software Engineering,programming,software;design,software_engineer;backend_engineer,programming,git;testing,2
+CS307,Statistics for Computing,mathematics,statistics;data,data_scientist;ml_engineer,mathematics,statistics;python,3
+CS308,Introduction to AI,programming;mathematics,ai;algorithms,ml_engineer;data_scientist,programming;mathematics,python;problem_solving,3
+CS309,Machine Learning,programming;mathematics;statistics,ai;data,ml_engineer;data_scientist,programming;statistics,python;machine_learning,4
+CS310,Deep Learning,programming;mathematics;machine_learning,ai;vision,ml_engineer,machine_learning,python;deep_learning,5
+CS311,Cybersecurity Fundamentals,programming;networking,security;networks,cybersecurity_analyst,networking,networking;security,3
+CS312,Cloud Computing,programming;networking,cloud;systems,cloud_engineer;backend_engineer,networking,linux;cloud,3
+CS313,Data Engineering,programming;databases,data;cloud,data_engineer;data_scientist,databases,sql;python;etl,4
+CS314,Natural Language Processing,programming;mathematics;machine_learning,ai;language,ml_engineer;data_scientist,machine_learning,python;nlp,5
+CS315,Mobile App Development,programming,mobile;software,software_engineer;frontend_engineer,programming,mobile;testing,3
+CS316,Human Computer Interaction,,design;web,frontend_engineer,,ux;design,2
+CS317,Computer Vision,programming;mathematics;machine_learning,ai;vision,ml_engineer,machine_learning,python;computer_vision,5
+CS318,DevOps Practices,programming;linux,cloud;software,cloud_engineer;backend_engineer,linux,git;docker;ci_cd,4
+CS319,Information Retrieval,programming;data_structures,ai;search,ml_engineer;backend_engineer,data_structures,python;search,4
+CS320,Applied Analytics,programming;statistics,data;statistics,data_scientist;data_engineer,statistics,python;sql;visualization,3

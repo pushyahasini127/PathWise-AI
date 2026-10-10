@@ -1,0 +1,16 @@
+flowchart TD
+  A[Student profile input] --> B[Validate profile]
+  D[CSV courses and JSON careers] --> C[Knowledge base]
+  B --> E{Prerequisites met?}
+  C --> E
+  E -->|No| F[Blocked courses and missing tags]
+  E -->|Yes| G[Compute weighted suitability]
+  G --> H[Rank eligible electives]
+  H --> I[Explanations and comparison]
+  C --> J[Career skill gap analysis]
+  I --> K[Streamlit dashboard and downloads]
+  F --> K
+  J --> K
+  L[Synthetic test profiles] --> M[Rule consistency evaluation]
+  C --> M
+  M --> K

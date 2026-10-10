@@ -1,0 +1,67 @@
+{
+  "profiles_evaluated": 5,
+  "catalogue_courses": 20,
+  "total_eligible_decisions": 51,
+  "total_blocked_decisions": 49,
+  "prerequisite_rules_pass": true,
+  "ranking_order_pass": true,
+  "determinism_pass": true,
+  "profile_results": [
+    {
+      "student_id": "STU001",
+      "career": "Machine Learning Engineer",
+      "eligible": 12,
+      "blocked": 8,
+      "top_course": "Machine Learning",
+      "top_score": 0.868,
+      "prerequisite_rules_pass": true,
+      "ranking_order_pass": true,
+      "determinism_pass": true
+    },
+    {
+      "student_id": "STU002",
+      "career": "Cybersecurity Analyst",
+      "eligible": 10,
+      "blocked": 10,
+      "top_course": "Computer Networks",
+      "top_score": 0.912,
+      "prerequisite_rules_pass": true,
+      "ranking_order_pass": true,
+      "determinism_pass": true
+    },
+    {
+      "student_id": "STU003",
+      "career": "Frontend Engineer",
+      "eligible": 8,
+      "blocked": 12,
+      "top_course": "Web Development",
+      "top_score": 0.92,
+      "prerequisite_rules_pass": true,
+      "ranking_order_pass": true,
+      "determinism_pass": true
+    },
+    {
+      "student_id": "STU004",
+      "career": "Machine Learning Engineer",
+      "eligible": 10,
+      "blocked": 10,
+      "top_course": "Introduction to AI",
+      "top_score": 0.628,
+      "prerequisite_rules_pass": true,
+      "ranking_order_pass": true,
+      "determinism_pass": true
+    },
+    {
+      "student_id": "STU005",
+      "career": "Data Engineer",
+      "eligible": 11,
+      "blocked": 9,
+      "top_course": "Data Engineering",
+      "top_score": 0.864,
+      "prerequisite_rules_pass": true,
+      "ranking_order_pass": true,
+      "determinism_pass": true
+    }
+  ],
+  "limitations": "Synthetic profiles and catalogue. Checks internal consistency, not educational relevance or predictive accuracy."
+}

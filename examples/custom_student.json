@@ -1,0 +1,21 @@
+{
+  "student_id": "STU001",
+  "name": "Asha (sample)",
+  "interests": [
+    "ai",
+    "data",
+    "statistics"
+  ],
+  "completed_prerequisites": [
+    "programming",
+    "mathematics",
+    "statistics"
+  ],
+  "skills": [
+    "programming",
+    "python",
+    "statistics"
+  ],
+  "career_goal": "ml_engineer",
+  "readiness": 0.85
+}

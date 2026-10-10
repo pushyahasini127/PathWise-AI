@@ -1,0 +1,14 @@
+﻿.streamlit/secrets.toml
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local backup and repair files
+app_backup_before_encoding_fix.py
+app_before_text_cleanup.py
+app_old.py
+pathwise/profiles_backup.py
+fix_text.py

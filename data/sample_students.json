@@ -1,0 +1,100 @@
+[
+  {
+    "student_id": "STU001",
+    "name": "Asha (sample)",
+    "interests": [
+      "ai",
+      "data",
+      "statistics"
+    ],
+    "completed_prerequisites": [
+      "programming",
+      "mathematics",
+      "statistics"
+    ],
+    "skills": [
+      "programming",
+      "python",
+      "statistics"
+    ],
+    "career_goal": "ml_engineer",
+    "readiness": 0.85
+  },
+  {
+    "student_id": "STU002",
+    "name": "Ravi (sample)",
+    "interests": [
+      "security",
+      "networks",
+      "systems"
+    ],
+    "completed_prerequisites": [
+      "programming",
+      "networking"
+    ],
+    "skills": [
+      "programming",
+      "networking",
+      "linux"
+    ],
+    "career_goal": "cybersecurity_analyst",
+    "readiness": 0.7
+  },
+  {
+    "student_id": "STU003",
+    "name": "Maya (sample)",
+    "interests": [
+      "web",
+      "design",
+      "software"
+    ],
+    "completed_prerequisites": [
+      "programming"
+    ],
+    "skills": [
+      "programming",
+      "html_css",
+      "javascript"
+    ],
+    "career_goal": "frontend_engineer",
+    "readiness": 0.75
+  },
+  {
+    "student_id": "STU004",
+    "name": "Neel (sample)",
+    "interests": [
+      "ai",
+      "vision"
+    ],
+    "completed_prerequisites": [
+      "programming",
+      "mathematics"
+    ],
+    "skills": [
+      "programming",
+      "python"
+    ],
+    "career_goal": "ml_engineer",
+    "readiness": 0.65
+  },
+  {
+    "student_id": "STU005",
+    "name": "Isha (sample)",
+    "interests": [
+      "cloud",
+      "data"
+    ],
+    "completed_prerequisites": [
+      "programming",
+      "databases",
+      "networking"
+    ],
+    "skills": [
+      "programming",
+      "sql",
+      "databases"
+    ],
+    "career_goal": "data_engineer",
+    "readiness": 0.8
+  }
+]

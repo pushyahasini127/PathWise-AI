@@ -1,0 +1,6 @@
+student_id,career,eligible,blocked,top_course,top_score,prerequisite_rules_pass,ranking_order_pass,determinism_pass
+STU001,Machine Learning Engineer,12,8,Machine Learning,0.868,True,True,True
+STU002,Cybersecurity Analyst,10,10,Computer Networks,0.912,True,True,True
+STU003,Frontend Engineer,8,12,Web Development,0.92,True,True,True
+STU004,Machine Learning Engineer,10,10,Introduction to AI,0.628,True,True,True
+STU005,Data Engineer,11,9,Data Engineering,0.864,True,True,True

@@ -1,0 +1,80 @@
+{
+  "ml_engineer": {
+    "label": "Machine Learning Engineer",
+    "required_skills": [
+      "python",
+      "statistics",
+      "machine_learning",
+      "deep_learning",
+      "git"
+    ]
+  },
+  "data_scientist": {
+    "label": "Data Scientist",
+    "required_skills": [
+      "python",
+      "statistics",
+      "sql",
+      "visualization",
+      "machine_learning"
+    ]
+  },
+  "data_engineer": {
+    "label": "Data Engineer",
+    "required_skills": [
+      "python",
+      "sql",
+      "databases",
+      "etl",
+      "cloud"
+    ]
+  },
+  "software_engineer": {
+    "label": "Software Engineer",
+    "required_skills": [
+      "programming",
+      "data_structures",
+      "git",
+      "testing",
+      "problem_solving"
+    ]
+  },
+  "backend_engineer": {
+    "label": "Backend Engineer",
+    "required_skills": [
+      "programming",
+      "databases",
+      "sql",
+      "git",
+      "cloud"
+    ]
+  },
+  "frontend_engineer": {
+    "label": "Frontend Engineer",
+    "required_skills": [
+      "html_css",
+      "javascript",
+      "ux",
+      "testing"
+    ]
+  },
+  "cybersecurity_analyst": {
+    "label": "Cybersecurity Analyst",
+    "required_skills": [
+      "networking",
+      "linux",
+      "security",
+      "python"
+    ]
+  },
+  "cloud_engineer": {
+    "label": "Cloud Engineer",
+    "required_skills": [
+      "linux",
+      "networking",
+      "cloud",
+      "docker",
+      "ci_cd"
+    ]
+  }
+}

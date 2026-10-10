@@ -1,0 +1,194 @@
+{
+  "student": {
+    "student_id": "STU001",
+    "name": "Asha (sample)",
+    "career_goal": "ml_engineer",
+    "career_label": "Machine Learning Engineer"
+  },
+  "weights": {
+    "interest": 0.4,
+    "career": 0.3,
+    "readiness": 0.2,
+    "skill": 0.1
+  },
+  "ranked_recommendations": [
+    {
+      "course_id": "CS309",
+      "title": "Machine Learning",
+      "score": 0.868,
+      "factors": {
+        "interest": 1.0,
+        "career": 1.0,
+        "readiness": 0.34,
+        "skill": 1.0
+      },
+      "weighted_contributions": {
+        "interest": 0.4,
+        "career": 0.3,
+        "readiness": 0.068,
+        "skill": 0.1
+      },
+      "course_skill_gaps": [
+        "machine_learning"
+      ],
+      "explanation": "Eligible: all listed prerequisites satisfied. Suitability 87%. Top score contributors: interest (0.40), career (0.30)."
+    },
+    {
+      "course_id": "CS307",
+      "title": "Statistics for Computing",
+      "score": 0.802,
+      "factors": {
+        "interest": 1.0,
+        "career": 1.0,
+        "readiness": 0.51,
+        "skill": 0.0
+      },
+      "weighted_contributions": {
+        "interest": 0.4,
+        "career": 0.3,
+        "readiness": 0.102,
+        "skill": 0.0
+      },
+      "course_skill_gaps": [],
+      "explanation": "Eligible: all listed prerequisites satisfied. Suitability 80%. Top score contributors: interest (0.40), career (0.30)."
+    },
+    {
+      "course_id": "CS308",
+      "title": "Introduction to AI",
+      "score": 0.652,
+      "factors": {
+        "interest": 0.5,
+        "career": 1.0,
+        "readiness": 0.51,
+        "skill": 0.5
+      },
+      "weighted_contributions": {
+        "interest": 0.2,
+        "career": 0.3,
+        "readiness": 0.102,
+        "skill": 0.05
+      },
+      "course_skill_gaps": [
+        "problem_solving"
+      ],
+      "explanation": "Eligible: all listed prerequisites satisfied. Suitability 65%. Top score contributors: career (0.30), interest (0.20)."
+    },
+    {
+      "course_id": "CS320",
+      "title": "Applied Analytics",
+      "score": 0.602,
+      "factors": {
+        "interest": 1.0,
+        "career": 0.0,
+        "readiness": 0.51,
+        "skill": 1.0
+      },
+      "weighted_contributions": {
+        "interest": 0.4,
+        "career": 0.0,
+        "readiness": 0.102,
+        "skill": 0.1
+      },
+      "course_skill_gaps": [
+        "sql",
+        "visualization"
+      ],
+      "explanation": "Eligible: all listed prerequisites satisfied. Suitability 60%. Top score contributors: interest (0.40), readiness (0.10)."
+    },
+    {
+      "course_id": "CS302",
+      "title": "Database Systems",
+      "score": 0.436,
+      "factors": {
+        "interest": 0.5,
+        "career": 0.0,
+        "readiness": 0.68,
+        "skill": 1.0
+      },
+      "weighted_contributions": {
+        "interest": 0.2,
+        "career": 0.0,
+        "readiness": 0.136,
+        "skill": 0.1
+      },
+      "course_skill_gaps": [
+        "databases",
+        "sql"
+      ],
+      "explanation": "Eligible: all listed prerequisites satisfied. Suitability 44%. Top score contributors: interest (0.20), readiness (0.14)."
+    }
+  ],
+  "eligible_count": 12,
+  "ineligible_courses": [
+    {
+      "course_id": "CS310",
+      "title": "Deep Learning",
+      "missing_prerequisites": [
+        "machine_learning"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): machine_learning."
+    },
+    {
+      "course_id": "CS311",
+      "title": "Cybersecurity Fundamentals",
+      "missing_prerequisites": [
+        "networking"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): networking."
+    },
+    {
+      "course_id": "CS312",
+      "title": "Cloud Computing",
+      "missing_prerequisites": [
+        "networking"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): networking."
+    },
+    {
+      "course_id": "CS313",
+      "title": "Data Engineering",
+      "missing_prerequisites": [
+        "databases"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): databases."
+    },
+    {
+      "course_id": "CS314",
+      "title": "Natural Language Processing",
+      "missing_prerequisites": [
+        "machine_learning"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): machine_learning."
+    },
+    {
+      "course_id": "CS317",
+      "title": "Computer Vision",
+      "missing_prerequisites": [
+        "machine_learning"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): machine_learning."
+    },
+    {
+      "course_id": "CS318",
+      "title": "DevOps Practices",
+      "missing_prerequisites": [
+        "linux"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): linux."
+    },
+    {
+      "course_id": "CS319",
+      "title": "Information Retrieval",
+      "missing_prerequisites": [
+        "data_structures"
+      ],
+      "explanation": "Not eligible: missing prerequisite(s): data_structures."
+    }
+  ],
+  "career_skill_gaps": [
+    "deep_learning",
+    "git",
+    "machine_learning"
+  ],
+  "disclaimer": "Advisory heuristic based on synthetic sample data; verify institutional prerequisites. Scores are not success probabilities."
+}
